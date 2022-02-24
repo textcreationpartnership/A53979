@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the King &amp; Queen at Whitehall, Decemb. 8th, 1689 by Edward Pelling ...</title>
+            <author>Pelling, Edward, d. 1718.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53979</idno>
+            <idno type="STC">Wing P1100</idno>
+            <idno type="STC">ESTC R18267</idno>
+            <idno type="EEBO-CITATION">13044885</idno>
+            <idno type="OCLC">ocm 13044885</idno>
+            <idno type="VID">96900</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53979)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96900)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 748:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the King &amp; Queen at Whitehall, Decemb. 8th, 1689 by Edward Pelling ...</title>
+                  <author>Pelling, Edward, d. 1718.</author>
+               </titleStmt>
+               <extent>[3], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Luke I, 71 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Joe Kilduff</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Joe Kilduff</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96900:1" rendition="simple:additions"/>
+            <p>A SERMON Preached before the King &amp; Queen AT WHITEHALL, <hi>Decemb. 8th.</hi> 1689.</p>
+            <p>By <hi>Edward Pelling</hi> D. D. Chaplain to his Grace the Duke of <hi>Somerſet.</hi>
+            </p>
+            <p>
+               <hi>By Her Majeſties Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby</hi> at the Biſhops-Head in St. <hi>Paul</hi>'s Church-yard. 1690.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:96900:2"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>Carolus Alſton R. P. D. Hen. Epiſc. Lond. a Sacris.</signed> 
+               <dateline>
+                  <date>Dec. 31. 1689.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:96900:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:96900:3"/>
+            <pb n="1" facs="tcp:96900:3"/>
+            <epigraph>
+               <bibl>St. LUKE 1. 71.</bibl>
+               <q>That we ſhould be ſaved from our Enemies, and from the hands of all that hate us.</q>
+            </epigraph>
+            <p>THeſe Words of <hi>Zacharias</hi> do evi<g ref="char:EOLhyphen"/>dently relate to our Bleſſed Savi<g ref="char:EOLhyphen"/>ours Incarnation: in Memory whereof, the Zeal and Wiſdom of the Catholick Church hath ſet apart this time of the Year, that all Profeſſors of Chriſti<g ref="char:EOLhyphen"/>anity may, now eſpecially, offer up to God their moſt ſolemn Thankſgivings, for that ineſtimable Bleſſing to the whole World. It would be beneath the Piety of the Chri<g ref="char:EOLhyphen"/>ſtian Religion, ſhould we paſs over the Memorial of his wonderful Nativity, without the moſt publick Expreſſions of Devotion which the moſt ſenſible Hearts can poſſibly give; ſince he was once uſherd into the World, not only with the Mira<g ref="char:EOLhyphen"/>culous
+<pb n="2" facs="tcp:96900:4"/>
+Birth of <hi>John</hi> the Baptiſt, to prepare his way as his Herald and Fore-runner, but alſo by a Majeſtick Train of glorious An<g ref="char:EOLhyphen"/>gels, and by the whole goodly Fellowſhip of the Prophets, which have ſpoken ſince Propheſy firſt began.</p>
+            <p>It was that which <hi>Zacharias</hi> now, nay, which our Saviour himſelf afterwards, and his Apoſtles after him, took notice of e<g ref="char:EOLhyphen"/>ſpecially; that <hi>in the Scriptures of Moſes and all the Prophets, there were things written which did plainly concern Him;</hi> that <hi>thoſe things which God before had ſhewed by the mouth of all his Prophets, he fulfilled in Him;</hi> and that <hi>to him give all the Prophets witneſs.</hi> For this was a convincing Argument of his own Divine Authority, and of the un<g ref="char:EOLhyphen"/>queſtionable Truth of his Religion, that every thing was accompliſht in Him, whatſoever was before ſpoken of the Meſ<g ref="char:EOLhyphen"/>ſiah, by thoſe extraordinary Men whom God had raiſed up by his own immediate Power in all Ages, to foretel things to come: When we read in the Old Teſtament ſuch
+<pb n="3" facs="tcp:96900:4"/>
+and ſuch things, Recorded of the time of the Meſſiahs coming, of his Birth, Pa<g ref="char:EOLhyphen"/>rentage, Perſon, Condition of Life, Do<g ref="char:EOLhyphen"/>ctrine, Miracles, Sufferings, Death, Reſur<g ref="char:EOLhyphen"/>rection, Aſcenſion; and of the ſtrange and ſudden Propagation of his Religion that was to be among Jews and Gentiles; and when we find in the New Teſtament how accurately all was fulfilled in the Bleſ<g ref="char:EOLhyphen"/>ſed Jeſus, and in him alone: So that the Hiſtory of our Saviour is a very plain Coun<g ref="char:EOLhyphen"/>terpart of the Prophets Predictions; we have the higheſt reaſon in the World to be<g ref="char:EOLhyphen"/>lieve, that This was <hi>He who was to come, and that we are not to look for another.</hi>
+            </p>
+            <p>But of all theſe Predictions, <hi>Zacharias</hi> here ſingleth out one, which is to be the Subject of our preſent Meditations, <hi>viz..</hi> That Pro<g ref="char:EOLhyphen"/>miſe made to <hi>Abraham,</hi> Gen. 22. whereof this was a part, <hi>That his Seed ſhould poſſeſs the gate of his Enemies,</hi> V. 17. He ſaith not <hi>thy Seeds,</hi> as if he ſpake of many, but <hi>as of One, thy Seed, which is Chriſt,</hi> ſaith St. <hi>Paul,</hi> Gal. 3. 6. And ſo the Senſe of the Predicti<g ref="char:EOLhyphen"/>on
+<pb n="4" facs="tcp:96900:5"/>
+is this, that God would in his due time moſt certainly raiſe up an Eminent Perſon, the <hi>Meſſiah,</hi> of the numerous Poſterity of <hi>Abrabam,</hi> that ſhould not only bleſs his Peo<g ref="char:EOLhyphen"/>ple, by turning them away from their Ini<g ref="char:EOLhyphen"/>quities, but ſhould moreover protect and defend them, by exerciſing his Victorious Power, even over the ſtrongeſt of their Ene<g ref="char:EOLhyphen"/>mies. And this is the very Senſe of <hi>Zacha<g ref="char:EOLhyphen"/>rias</hi> here, though he expreſt himſelf in ſome<g ref="char:EOLhyphen"/>what a different Form of Words, ſpeaking now of the <hi>Meſſiah,</hi> that was yet in the Ho<g ref="char:EOLhyphen"/>ly Virgins Womb: <hi>God hath raiſed up an Horn of Salvation for us, in the houſe of his Servant David; as he ſpake by the mouth of his holy Prophets, which have been ſince the World began: that we ſhould be ſaved from our Enemies, and from the hand of all that hate us.</hi>
+            </p>
+            <p>In diſcourſing upon which Words, it will be neceſſary for me to ſhew,
+<list>
+                  <item n="1">1. What thoſe Enemies are, from whoſe Hand we were to be delivered by the <hi>Meſſiah.</hi>
+                  </item>
+                  <pb n="5" facs="tcp:96900:5"/>
+                  <item n="2">2. How the Prediction touching this Deliverance is fulfilled in the Bleſſed Je<g ref="char:EOLhyphen"/>ſus; or how his Providence is ſhewed in ſaving us from our Enemies.</item>
+                  <item n="3">3. And ſo in the laſt place, to draw down this Conſideration to our Chriſtian Practice.</item>
+               </list>
+            </p>
+            <p n="1">1. What thoſe Enemies are, from whoſe hand we were to be delivered by the Meſſiah; ſome underſtand it only of our <hi>Spiritual</hi> Enemies, as of Sin, which without the Grace of Chriſt, muſt have Reigned in our mortal Bodies; of Death, which without his Victory over the Grave, muſt have holden us to all Eternity; and of <hi>the Devil,</hi> who without the Power of Chriſt, would have Captivated us by his Wiles, and brought us into his Condem<g ref="char:EOLhyphen"/>nation. Which is the Reaſon the Author to the <hi>Hebrews</hi> gives of our Saviours partak<g ref="char:EOLhyphen"/>ing of Fleſh and Blood, <hi>That through death he might deſtroy him who had the power of death, that is the Devil,</hi> Heb. 2. 14.</p>
+            <p>
+               <pb n="6" facs="tcp:96900:6"/>
+And indeed theſe Deliverances are of the greateſt conſequence by far, and ſo the fitteſt for the Meſſiah to accompliſh, becauſe they immediately concern our Im<g ref="char:EOLhyphen"/>mortal Souls, and are in order to the endleſ; <hi>happineſs</hi> of our Souls in another World. But yet, by the Salvation ſpoken of in the Text, muſt be meant alſo Delive<g ref="char:EOLhyphen"/>rance from our <hi>Temporal</hi> Enemies, or from ſuch as viſibly and forcibly oppoſe the Kingdom of the Meſſiah, and the Truth of his Religion.</p>
+            <p n="1">1. For, firſt, <hi>Zacharias</hi> now ſpoke like a Jew, as one that might expect, as the reſt of the Jews, nay as the Apoſtles themſelves for ſome time did, a Glorious Temporal Deliverer, that ſhould ſet up his Throne upon the Earth, and go in and out before them after a Pompous manner, as <hi>David</hi> and other of their Kings had done. Though as to this particular Circumſtance they were miſtaken, becauſe <hi>the Kingdom of Chriſt was not of this World;</hi> yet thoſe Predictions on which theſe their Expectati<g ref="char:EOLhyphen"/>ons
+<pb n="7" facs="tcp:96900:6"/>
+were grounded, do plainly argue, that the Meſſiah was not wholly to ſhut him<g ref="char:EOLhyphen"/>ſelf out of the World, but that how In<g ref="char:EOLhyphen"/>glorious ſoever his ſuffering State might be, yet being once exalted to the Right hand of God, he was to be enſtated King of Kings, and all Power in Heaven and in Earth was to be given unto him. Hence it fol<g ref="char:EOLhyphen"/>lows, that his Office was to be, not only to make all due Proviſion for our Souls, but moreover to take care even of the outward State of his Church; by Exerciſing his Sove<g ref="char:EOLhyphen"/>raignty over all; by watching all Affairs here below; by directing all Occurrences to the Intereſt of his Kingdom; by ſubduing his and his Churches Enemies; and by Defend<g ref="char:EOLhyphen"/>ing his Faithful Servants; ſo far at leaſt as it ſerves for their Good and for his own Glory; becauſe the power of Defending is a very neceſſary part of his Soveraign Authority.</p>
+            <p n="2">2. For, Secondly, were it not thus, what fair Conſtruction can we make of a great many Propheſies relating to the Meſſiah? that all his Enemies ſhould be made his Footſtool; that they ſhould bow before
+<pb n="8" facs="tcp:96900:7"/>
+him, and lick the Duſt; that he ſhall Rule in the midſt of them; that he ſhall ſtrike through Kings in the day of his wrath; that he ſhall judge among the Heathen; that he ſhall fill the Places with dead Bodies; that he ſhall wound the Heads over many Countries; that he ſhall break the Heathen with a Rod of Iron, and daſh them in pieces like a Potters Veſ<g ref="char:EOLhyphen"/>ſel. It were too great force upon Scrip<g ref="char:EOLhyphen"/>ture to interpret theſe, and a great many Places more of the Meſſiah's vanquiſhing our Spiritual Enemies only, when the na<g ref="char:EOLhyphen"/>tural ſenſe of them is ſo plain and obvious, touching the ſubduing even of Powers on Earth, the greateſt and ſtrongeſt Pow<g ref="char:EOLhyphen"/>ers, that endeavour the deſtruction of Chriſts Kingdom; from the Hand of <hi>ſuch</hi> Enemies he was to ſave us.</p>
+            <p n="3">3. There is yet a third thing which leads us to the belief of this matter; and it is the conſideration of the nature of that Religion which the Meſſiah was to Plant in the World. A Religion ſo Holy and
+<pb n="9" facs="tcp:96900:7"/>
+Spiritual in it ſelf; ſo oppoſite to Mens unreaſonable and outragious Luſts; ſo deſtructive of all worldly and baſe De<g ref="char:EOLhyphen"/>ſigns; ſo inconſiſtent with the Pride and Ambition of deſigning Men; ſuch an ut<g ref="char:EOLhyphen"/>ter Enemy to Fleſh and Blood, that it is impoſſible to conceive but Fleſh and Blood muſt be an Enemy to it: A Religion that layeth before us ſuch ſtrict Laws of Humility, Meekneſs, Self-denial, and Pa<g ref="char:EOLhyphen"/>tient ſuffering for Righteouſneſs ſake; In a word, a Religion that leaves us ſo na<g ref="char:EOLhyphen"/>ked and defenceleſs, that without the over<g ref="char:EOLhyphen"/>ruling Providence and powerful Hand of Chriſt, we ſhould be of all Mankind the moſt miſerable, as to our Fortunes here below. 'Twas neceſſary therefore that Chriſt, who was to found his Church up<g ref="char:EOLhyphen"/>on ſuch diſcouraging Laws, ſhould take care to Preſerve her in the faithful diſ<g ref="char:EOLhyphen"/>charge of her Duty; becauſe we cannot think, that God ſhould chuſe out to him<g ref="char:EOLhyphen"/>ſelf a peculiar People, only to expoſe them to the Hardſhips and Perſecutions of the
+<pb n="10" facs="tcp:96900:8"/>
+World. However for wiſe Reaſons he may for a time aſſign his Church ſuch a Condition as her preſent Lot; 'tis unbe<g ref="char:EOLhyphen"/>coming the Notion of an infinitely Good, Juſt and Provident Being, to conceive that he has Entailed it on Her as a perpetual Inheritance.</p>
+            <p n="2">2. This therefore being laid down, that the Meſſiah was to ſave us even from our Temporal Enemies, let us proceed to the Second Conſideration, How this Pre<g ref="char:EOLhyphen"/>diction is fulfilled in the Bleſſed Jeſus, or, how his Providence is ſhewed, in ſaving us from our Enemies.</p>
+            <p>And here it is to be noted that Chriſt ſaves us from our Enemies, not by a total and actual Deſtruction of them. For his Providence is in order to the Intereſt of his Kingdom; and that intereſt is ſerved by ſuffering evil Men to try and exerciſe the Vertues of his Followers, their Zeal, Pa<g ref="char:EOLhyphen"/>tience, Conſtancy, and the like. By this they are the more and more <hi>fitted for the Inheritance of the Saints in light,</hi> and the
+<pb n="11" facs="tcp:96900:8"/>
+Glory of his own Wiſdom, Goodneſs, and Power throughout his whole Oeconomy, is the more diſcover'd. Therefore he will not bring all Enemies under his Feet, by a total deſtruction of them, till the time comes that he muſt deliver up the King<g ref="char:EOLhyphen"/>dom of his Mediatorſhip, when he ſhall put down all Rule, and all Authority and Power. In the mean while he ſhews his Providence, in ſaving us from our Enemies, theſe five ways chiefly.</p>
+            <p n="1">1. Sometimes by defeating their De<g ref="char:EOLhyphen"/>ſigns, and by bringing their wicked Coun<g ref="char:EOLhyphen"/>ſels to nought. This was one of his firſt cares after his Aſcenſion into Heaven, to guard with his own hand thoſe few Diſci<g ref="char:EOLhyphen"/>ples he had left behind him, and to keep a very watchful Eye over that united force, which reſolved to Extirpate his Religion be<g ref="char:EOLhyphen"/>fore it Propagated in the World. Had not Chriſt himſelf blaſted their Devices, by his ſpecial and over-ruling Providence, it had been impoſſible for ſuch a ſmall handful of Men, to have kept their ground, when on
+<pb n="12" facs="tcp:96900:9"/>
+all hands there were ſuch Formidable, and to Human appearance, ſuch unavoidable Preparations againſt them.</p>
+            <p>From that Age down to this, the ſtrange and unaccountable Protection of the Truth, in ſpight of all Attempts againſt it, by ways and methods which no human Eye could poſſibly foreſee, and in the moſt threatning and dangerous Junctures, is an amazing Argument, that the Son of God ſits not in Heaven a meer Spectator of this Sublunary World; but that with an Invi<g ref="char:EOLhyphen"/>ſible and Almighty hand, he doth Govern all Occurrences; and how furious ſoever the drivings of Men may be, he ſtill holds the Rein, and not only checks them in their full Career, but ſpoils and ruins all their Deſigns in the very heat of their Ex<g ref="char:EOLhyphen"/>pectations.</p>
+            <p n="2">2. Sometimes he doth not only ſtop our Enemies Proceedings, but moreover turns their Deſigns to diſtant and quite contrary Purpoſes, by making that ſubſervient to the <hi>Advantage,</hi> which was intended for the
+<pb n="13" facs="tcp:96900:9"/>
+               <hi>Deſtruction</hi> of the Truth. This is a Glorious and aſtoniſhing Inſtance of his Power and Wiſdom both, that he draws Good out of Evil; that in the moſt uncomfort<g ref="char:EOLhyphen"/>able and afflicting Circumſtances, he makes every thing to work together for good, and directs the moſt wicked Contrivances to the nobleſt Ends. Thus his Providence hath been for the moſt part imployed, to wrap up in Mens Deſigns glorious Ends of his own, which nothing but the Event could diſcover. When the Myſtery of his Providence hath come to be opened, his wonderful Conduct hath been made mani<g ref="char:EOLhyphen"/>feſt, and that ſecret and over-ruling Hand hath been evidently ſeen, which makes e<g ref="char:EOLhyphen"/>ven his Enemies ſuch Inſtruments to carry on his Purpoſes, and to bring his Ends to paſs, as if they themſelves had deſigned and ſtudied to ſerve them: Who could have thought, that the malice of the hard<g ref="char:EOLhyphen"/>ned Jews ſhould help to eſtabliſh Chri<g ref="char:EOLhyphen"/>ſtianity? Who could have thought, that thoſe long and continual Perſecutions
+<pb n="14" facs="tcp:96900:10"/>
+from the Heathens, which were intended in the Primitive times to deſtroy the Faith, ſhould ſerve as means to confirm it, to make it ſpread, and thrive, and flouriſh in the World? Yet this the Ancient Chri<g ref="char:EOLhyphen"/>ſtians boaſted of, that the more they were harraſſed and cut off, the more they encrea<g ref="char:EOLhyphen"/>ſed ſtill, like Graſs that is mown, (to uſe <hi>Tertullians</hi> Similitude) the more the Church ſuffer'd, like a Vine fed with Blood, the more it proſper'd; the Thicker, the Fairer, the better were the Cluſters. And though in the Peaceable times which followed next under Chriſtian Emperors, many peſtilent Hereſies, as that of <hi>Arius,</hi> and others, ſtarted up, which were more miſchievous to Chriſtianity than the former Perſecuti<g ref="char:EOLhyphen"/>ons had been, yet the Orthodox Faith was never ſince the Apoſtles days ſo ſtrictly Examin'd, ſo convincingly Defended, ſo abundantly Confirm'd, as it was in thoſe Times. They were indeed the Learned times of Chriſtianity; and that which made them ſo was, the continual Oppoſi<g ref="char:EOLhyphen"/>tion
+<pb n="15" facs="tcp:96900:10"/>
+of ſubtle and learned Hereticks, who intended to undermine the very Founda<g ref="char:EOLhyphen"/>tions of the Catholick Faith; but by the over-ruling Providence of Chriſt, were the means of ſetling it the firmer upon its true Bottom. And in later times, eſpecially in theſe laſt Ages, this hath been the lucky effect of Controverſies; that whereas through the Ignorance, or the ſiniſter Deſigns of ſome Men, Religi<g ref="char:EOLhyphen"/>on had been cover'd over with much Falſhood and Superſtition, like a Jewel blended in an heap of Duſt, by con<g ref="char:EOLhyphen"/>tinual ſtirring and ſifting of the Rubbiſh, the Truth has been fortunately reſtored to its native Luſtre and Brightneſs. The iſſue of thoſe Conflicts hath ſtill been Good, wherein our Lord was plea<g ref="char:EOLhyphen"/>ſed, for wiſe Reaſons, to ſuffer us to be engaged, not only for the diſcrime<g ref="char:EOLhyphen"/>nating of Good Men from Bad, but alſo for the clearing of True Do<g ref="char:EOLhyphen"/>ctrines from Falſe; and notwithſtand<g ref="char:EOLhyphen"/>ing all the Arts of our moſt power<g ref="char:EOLhyphen"/>ful
+<pb n="16" facs="tcp:96900:11"/>
+Enemies; by the Bleſſing of Chriſt we have been more than Conquerors, through him that hath ſtrengthned us, and hath turned the worſt Purpoſes to the beſt Events.</p>
+            <p n="3">3. Chriſt ſhews his Providence in ſaving us from our Enemies, ſome<g ref="char:EOLhyphen"/>times by making them ſignal and pub<g ref="char:EOLhyphen"/>lick Monuments of his Juſtice. And this is uſually in Caſes, when either the wickedneſs of Chriſt's Enemies is Pro<g ref="char:EOLhyphen"/>digiouſly and Scandalouſly Great, or when the Salvation of his Followers is not ſo eaſily to be wrought in an or<g ref="char:EOLhyphen"/>dinary way. Then Deſtruction is ne<g ref="char:EOLhyphen"/>ceſſary, partly to render the Puniſh<g ref="char:EOLhyphen"/>ment of thoſe that hate us Exemplary and Notorious as their Sins were; and partly to give the more abundant ſafe<g ref="char:EOLhyphen"/>ty and confidence to ſuch as love the Lord Jeſus in Sincerity. Thus he dealt with the Bloody and Obſtinate Nation of the Jews, who not ſatisfied with this,
+<pb n="17" facs="tcp:96900:11"/>
+that with barbarous Hands they had ſlain the Prince of Life himſelf, reſolved to make havock of all his Followers too. To reſcue theſe, and to make the great Maſs of their Enemies the moſt aſtoniſhing Inſtances of Divine Ven<g ref="char:EOLhyphen"/>geance; after Forty years Patience and Long-ſuffering he brought that Solemn and Pompous deſtruction upon them; when their Temple and the City of <hi>Jeruſalem</hi> was Conſumed; their Govern<g ref="char:EOLhyphen"/>ment in Church and State was utterly Diſſolved, and the Generality of them that had eſcaped the fury of the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> were made Out-caſts and Vaga<g ref="char:EOLhyphen"/>bonds over the Face of the whole Earth, without hopes of ever being Re-eſtab<g ref="char:EOLhyphen"/>liſhed in that Land, which they and their Fathers had polluted, and ſo a<g ref="char:EOLhyphen"/>bandon'd to a Curſed and Reprobate ſtate, that (as ſome of the Ancients tell us) as often as a Remnant of them endeavour'd to repair their City, they were immediately conſumed by Fire from Hea<g ref="char:EOLhyphen"/>ven.
+<pb n="18" facs="tcp:96900:12"/>
+The like exemplary Vengeance Chriſt executed upon the <hi>Romans</hi> themſelves in proceſs of time, when the Ripeneſs of their Sins, and the Safety of the Church required again a Sign from Heaven. The Metropolis of theſe <hi>Romans</hi> was ſackt too; and that by barbarous Nations, who were Inſtruments in the hand of Chriſt, as they themſelves had formerly been, to avenge that Innocent Blood which had been ſhed upon the Earth; and as they had aſſiſted and communicated with the <hi>Jews</hi> in their Villanies, ſo they ſhared with them in their Puniſhment alſo. I will not ſpeak of the exemplary deſtruction of particular Perſons in the Primitive times who fought againſt the Truth, as well Perſecutors as Hereticks: 'twere endleſs to make a juſt Collection of ſuch Obſervations; and later Ages have given us Inſtances of this kind abundant which our Fathers and our ſelves have ſeen; nor do I doubt, but we or our Poſteri<g ref="char:EOLhyphen"/>rity ſhall in Gods time ſee ſome more.</p>
+            <p n="4">
+               <pb n="19" facs="tcp:96900:12"/>
+4. Fourthly, The good Providence of Chriſt over his Church is never more diſ<g ref="char:EOLhyphen"/>cover'd, than in ſaving her from her E<g ref="char:EOLhyphen"/>nemies at nice and critical Seaſons. Eve<g ref="char:EOLhyphen"/>ry day is not a fit time for him to ſhew the Greatneſs of his Power: there is a day in the courſe of Affairs, which he in his Infinite Wiſdom foreſees will be the moſt Proper, Neceſſary, and Convenient Day of Salvation; and in that appointed time he is wont to make bare and ſtretch out his Arm, to gain himſelf the Victory. <hi>Thou ſhalt ariſe and have mercy upon Sion,</hi> (ſaith the Pſalmiſt) <hi>for it is time to have mercy upon her, yea the ſet time is come,</hi> Pſam 102. 13.</p>
+            <p>And though we cannot ſearch into the Counſels of Heaven, nor foretell exactly at all times when that ſet and appointed Juncture will be, yet St. <hi>Chryſoſtom</hi> ſome<g ref="char:EOLhyphen"/>where excellently obſerves, that it is uſual with God to ſhew his own Extraordinary
+<pb n="20" facs="tcp:96900:13"/>
+Power, when there is Extremity of Dan<g ref="char:EOLhyphen"/>ger, when Evils are grown to a very cri<g ref="char:EOLhyphen"/>tical Pitch, and when ordinary means of eſcaping ſeem to be out of our reach and power. And, as I remember, he in<g ref="char:EOLhyphen"/>ſtanceth in that very dangerous caſe the Church was in, under that crafty and re<g ref="char:EOLhyphen"/>ſolute Emperour, who had revolted from the Chriſtian Faith; though he diſſembled it for a time, till he had power enough in his hands to endeavour the extirpation of it. The truth is, what by his reſtoring the Heathen Idolatries, what by his en<g ref="char:EOLhyphen"/>couraging all ſorts of Factions, what by his letting looſe upon the Orthodox Chri<g ref="char:EOLhyphen"/>ſtians, eſpecially upon the Biſhops of the Church, all the Enemies they had on each hand: and what by many other fly, but hateful Methods which he uſed, the Faith of Chriſt was like to have failed in the <hi>Roman</hi> Empire in a ſhort time, without the Miraculous protection of Chriſt himſelf. In that critical Sea<g ref="char:EOLhyphen"/>ſon he ſhew'd his Almighty Power be<g ref="char:EOLhyphen"/>yond
+<pb n="21" facs="tcp:96900:13"/>
+expectations; for in the Engage<g ref="char:EOLhyphen"/>ment with the <hi>Perſians,</hi> that Emperous was providentially ſlain; all grant, by an unknown hand; ſome thought, by the hand of an Angel; but the Emperour himſelf ſeemed to confeſs, it was by the immediate hand of Chriſt: for finding himſelf mortally wounded, he threw up (as we are told) ſome of his Blood in<g ref="char:EOLhyphen"/>to the Air, with this expreſſion, which he utter'd in a rage, <hi>Viciſti Galiloee,</hi> thou haſt been to hard for me, O thou <hi>Gali<g ref="char:EOLhyphen"/>loean.</hi> This was Chriſt's ſet and conve<g ref="char:EOLhyphen"/>nient time of ſhewing Mercy upon <hi>Sion</hi> then; and the like Mercy he hath ſhew'd in innumerable Inſtances more; when the Enemies of Truth have been impa<g ref="char:EOLhyphen"/>tient, till they brought Affairs to a Cri<g ref="char:EOLhyphen"/>ſis, to Extremity of Danger: by driving furiouſly they have only haſtned to be undone. By precipitating their Deſigns with a quick hand; by making Evils to grow to a high degree, and ſwell to a full head, they have in a great meaſure
+<pb n="22" facs="tcp:96900:14"/>
+neceſſitated the Saviour of his Church Miraculouſly to interpoſe.</p>
+            <p n="5">5. Laſtly, Chriſt ſhews the greatneſs of his Salvation, by delivering us from our Enemies after a ſurprizing and ſudden manner, and by making quick work. Thus he hath promiſed to deal with that Myſtical Babylon, <hi>Revel.</hi> 18. Though the Kings of the Earth have committed Fornication with her, and the Merchants of the Earth wax Rich through the abundance of her Deli<g ref="char:EOLhyphen"/>caſies, yet her Plagues ſhall come in one day, <hi>Verſe</hi> 8. In one Hour ſhall her Judgment come, <hi>Verſe</hi> 10. In one Hour ſhall her great Riches come to nought, <hi>Verſe</hi> 16. In one Hour ſhall ſhe be made Deſolate, <hi>Verſe</hi> 19. Nor is this unuſual with the Divine Juſtice, to viſit wicked Men with ſudden and ſpeedy Deſtruction. It was the Obſer<g ref="char:EOLhyphen"/>vation of <hi>Job;</hi> The Houſes of the wicked are ſafe from fear, neither is
+<pb n="23" facs="tcp:96900:14"/>
+the rod of God upon them; they take the Timbrel and the Harp, and re<g ref="char:EOLhyphen"/>joice at the found of the Organ; they ſpend their days in wealth: But then it follows, in a Moment they go down into the Grave, <hi>Job</hi> 21. 13. It was the Ob<g ref="char:EOLhyphen"/>ſervation of the <hi>Pſalmiſt;</hi> O how ſud<g ref="char:EOLhyphen"/>denly do they conſume, periſh, and come to a fearful end? It was the Ob<g ref="char:EOLhyphen"/>ſervation of St. <hi>Paul;</hi> They ſay peace and ſafety, and then ſudden Deſtructi<g ref="char:EOLhyphen"/>on cometh upon them. 'Tis a thing commonly obſervable, that a day bring<g ref="char:EOLhyphen"/>eth forth ſtrange Alterations; that Men are oftentimes ſurprized in the depth of their Security; that Vengeance comes, as the Sentence upon <hi>Belſhazzar</hi>'s Wall did, unexpectedly in a Night; or as our laſt Change ſhall come, in a Mo<g ref="char:EOLhyphen"/>ment, in the twinkling of an Eye. And this is a demonſtrative Argument of the watchful Providence of Chriſt, that after a long Series and Train of Con<g ref="char:EOLhyphen"/>trivances againſt his Church, when Mens
+<pb n="24" facs="tcp:96900:15"/>
+Hopes are the ſtrongeſt; when their Ex<g ref="char:EOLhyphen"/>pectations are moſt confident; when their Deſigns are at their full ripeneſs; when the Succeſs of them ſeems altoge<g ref="char:EOLhyphen"/>ther unqueſtionable: Then, by ſome unforeſeen Accident or other, the Snare is all in a trice broken, and that, after a ſecret and unaccountable manner; ſo that in that very Self ſame Net which wicked Men had laid for others, their own Feet are providentially taken.</p>
+            <p n="3">3. From this whole Conſideration, (that I may now in the Third Place ren<g ref="char:EOLhyphen"/>der it Practical) there are Two things which naturally follow.</p>
+            <p n="1">1. That, as in all Caſes, we are with the moſt Humble and Devout Hearts, to implore Chriſts Protection, and lift up our Eyes to him from whom all our help cometh; ſo we muſt, in all difficult Caſes eſpecially, depend ſtill upon his Providence with all modeſt Aſſurance,
+<pb n="25" facs="tcp:96900:15"/>
+poſſeſſing our Souls in Patience, and caſt<g ref="char:EOLhyphen"/>ing all our Cares on him who careth for us, and committing our ſelves to him in Well-doing. Every hour he is preparing new Mercies for us, if we do but ſo or<g ref="char:EOLhyphen"/>der our ways, by the aſſiſtance of his Grace, as to make our ſelves Recep<g ref="char:EOLhyphen"/>tive of them. He hath worked hitherto, and doth ſtill work; nor will his Provi<g ref="char:EOLhyphen"/>dence give over working, till the Final and Eternal Salvation of his Church be accompliſhed.</p>
+            <p>Whatever it be therefore that we de<g ref="char:EOLhyphen"/>ſire and hope for at any time; whether it be the Deliverance of our ſelves in any dangerous Caſes; or whether it be the Preſervation of the Church when it may ſeem to ſhake; or whether it be the En<g ref="char:EOLhyphen"/>larging of the Borders of Chriſt's San<g ref="char:EOLhyphen"/>ctuary; we may ſafely and with full Truſt rely on him, who hath aſſured us, that he himſelf will be with us, even to the end of the World.</p>
+            <p>
+               <pb n="26" facs="tcp:96900:16"/>
+Many Predictions relating to our Sa<g ref="char:EOLhyphen"/>viour, were plainly fulfilled upon his com<g ref="char:EOLhyphen"/>ing into the World; and more have been fulfilled ſince his Aſcenſion into Heaven. But as a Learned Divine of our own <note place="margin">Dr. <hi>Scot</hi> Chri<g ref="char:EOLhyphen"/>ſtian Life, Par. 2. Vol. 2. pag. 490.</note> hath of late particularly obſerved, there are divers more which are yet unfulfilled: Some which ſpeak of Chriſts Confounding, Scattering, and Subduing thoſe his Ene<g ref="char:EOLhyphen"/>mies, the Eaſtern Infidels; that his King<g ref="char:EOLhyphen"/>dom may be enlarged over that great part of the World; and ſome too which ſpeak of the univerſal Reformation of Chriſtendom it ſelf; and the reſtoring of all Churches in this Weſtern World, to that admirable Purity of Faith and Worſhip, which the Ancient Churches of Chriſt were ſo Renowned for. According to the Tenor of theſe Pre<g ref="char:EOLhyphen"/>dictions, or at leaſt according to the prob<g ref="char:EOLhyphen"/>able Conſtruction that is given of them, before this Univerſal Reformation, which I now ſpeak of: That Faction which in ſome Places of Scripture is called
+<pb n="27" facs="tcp:96900:16"/>
+by the name of Babylon and Anti<g ref="char:EOLhyphen"/>chriſt, will employ its Power by Wars and Perſecutions, to extirpate out of theſe Parts the preſent Pure Profeſſion of Chriſtianity; and of this God knows we have already ſeen, and daily ſee too much. But the account which follow<g ref="char:EOLhyphen"/>eth, is, <q rend="margQuotes">That many Kings and Princes, even thoſe who have hitherto been par<g ref="char:EOLhyphen"/>takers with that Faction in its foul Im<g ref="char:EOLhyphen"/>poſtures and Corruptions, ſhall all on a ſudden turn their Swords againſt it, and Conſpire to root it out utterly from off the Face of the Earth.</q> This indeed gives us a Comfortable Proſpect of the Glo<g ref="char:EOLhyphen"/>rious ſtate of Chriſts Kingdom that ſhall be; and though the Completion of this Part of the Propheſie be ſtill to be ex<g ref="char:EOLhyphen"/>pected; yet I will preſume to ſay, that were we of this Age but capable of ſo great a Bleſſing, methinks it would not be againſt Reaſon to hope, I am ſure 'tis not beyond the Rules of Piety to wiſh, that that happy day may even now
+<pb n="28" facs="tcp:96900:17"/>
+be approaching,; and that the preſent Juncture of Affairs may be the Dawning of that Day; there is at this Critical time a Providential concurrence of ſuch Circumſtances, as methinks ſeem at leaſt to Promiſe a fulfilling of this Prediction in a ſhort ſpace, and that the day of our Common Salvation is not very far off. Let me here again uſe thoſe devout Ex<g ref="char:EOLhyphen"/>preſſions of the Holy Pſalmiſt; <hi>Ariſe, O Lord, and have mercy upon Sion; for it is time that thou have mercy upon her; yea the ſet time ſeemeth to be coming.</hi> But for this, and all other Bleſſings, we muſt depend on the good Providence of him, whom the Father hath made the Prince and Captain of our Salvation, to exerciſe and ſhew his Soveraign Power, when the ſet, the appointed Time ſhall actually come.</p>
+            <p n="2">2. To make way for it, as much as lyeth in us, it is neceſſary for us, in the Second Place, to expreſs all poſſible
+<pb n="29" facs="tcp:96900:17"/>
+Thankfulneſs to the great Biſhop of our Souls, for the Bleſſings we already enjoy; and particularly for the Bleſſing in my Text, Salvation from our Enemies, and from the hands of thoſe (would to God I could ſay from the hands of all) that hate us. What Demonſtrations of his Almighty Power and Over-ruling Provi<g ref="char:EOLhyphen"/>dence, hath Chriſt given at any time, in any Nation, which he hath not given unto this? Whether it be the defeating and fruſtrating wicked Mens Deſigns; he hath done it here: Whether it be the Turning and Directing of their ill Deſigns to the beſt Purpoſes; He hath done it here: Whether it be the making deſigning Men Publick and Exemplary Monuments of his Juſtice; he hath done it here: Whe<g ref="char:EOLhyphen"/>it be the ſtretching out of his Arm on a ſudden, and at nice and critical Sea<g ref="char:EOLhyphen"/>ſons; he hath done it here; by deli<g ref="char:EOLhyphen"/>vering us in one Age from Tyranny, when the Armado that ſhould have landed it, was juſt ready upon our
+<pb n="30" facs="tcp:96900:18"/>
+Coaſts; by delivering us in the next Age from Ruine, when the Fire was juſt rea<g ref="char:EOLhyphen"/>dy for the Sulphur; and by delivering us in this Age from Servitude, when the Yoke was juſt ready for our Necks; and all this with a quick hand, after a ſtrange and myſterious manner; and let me add, without Bloodſhed for the moſt part; nay, which is more, without any Stream of Blood of our very Enemies. Never was the Truth more Own'd, more Atteſted, more Miraculouſly Defended and Preſerved, in any Countreys ſince the Primitive Ages, then it hath been in this: And God forbid that we, who of all Nations are moſt indebted to the ſpecial Providence of Chriſt, ſhould at laſt prove the moſt Unthankful People in the World. How divided ſoever we be in other Matters, God forbid but we ſhould unanimouſly joyn in this; I mean in a deep ſence of the won<g ref="char:EOLhyphen"/>derful Mercies of God, and of the un<g ref="char:EOLhyphen"/>ſpeakable Miſeries which the Horn of
+<pb n="31" facs="tcp:96900:18"/>
+our Salvation hath delivered us from. As it is in Point of Nature; though the Conſtitutions of particular Perſons be different, yet all of us agree in one com<g ref="char:EOLhyphen"/>mon Humanity; and as it is in point of Religion, though the Opinions of particular Perſons be different, as to unneceſſary Mat<g ref="char:EOLhyphen"/>ters, yet all of us agree in one common Faith, ſo it ought to be in this Point of Gratitude; though the Sentiments of Particular Perſons may be different as to ſome things, yet God forbid but we ſhould agree in one common Acknow<g ref="char:EOLhyphen"/>ledgment, of the wonderful Providence of Chriſt in ſaving us from our Ene<g ref="char:EOLhyphen"/>mies hitherto. Let us be Thankful for the Bleſſings we have; this is the way for us to obtain more. I am ſure In<g ref="char:EOLhyphen"/>gratitude never was the way to obtain any. I Pray God open our Eyes, that we may ſee the things which are for our Peace, before they be hid from us. And Chriſt of his Mercy grant us a continuance of his Protection; that
+<pb n="32" facs="tcp:96900:19"/>
+as he hath delivered us, and doth deli<g ref="char:EOLhyphen"/>ver us, ſo he may be pleaſed to Deliver us ſtill. To him, with the Father, and the Holy Ghoſt, be all Honour and Praiſe, World without End. <hi>Amen.</hi> 
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96900:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
